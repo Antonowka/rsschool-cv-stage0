@@ -152,3 +152,21 @@ function clearActiveClasses() {
  
 
 ___
+
+### Experience.
++ HTML+CSS: *my introduction to frontend* - [Netlify](https://lucky-taffy-961900.netlify.app/ "goit")
++ JS: *my introduction to JS* - [Netlify](https://remarkable-kashata-ab03ae.netlify.app/ "js-slider")
+
+
+___
+
+### Education:
++ Сollege at the Belarusian-Russian University: *01.09.2010 - 21.03.2014 - "Industrial and civil construction".* "Technic-Builder."
++ Belarusian-Russian University: *01.09.2014 - 25.01.2019 - "Industrial and civil construction".* "Civil-Engineer."
++ GoIT Courses: *intensive Frontend course - start 22 end 30 March 2022*
+
+
+___
+
+### Language:
++ English [EF SET](https://www.efset.org/ru/ "phone") - _Beginner_
