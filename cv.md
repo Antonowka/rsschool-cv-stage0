@@ -1,18 +1,18 @@
 # Anton Navitski
 
-![MyPhoto](01.jpg "My Photo")
+![MyPhoto](01.jpg "MyPhoto")
 
 #### Student Junior Frontend Developer
 
 ___
 
 ### Contacts:
-- Location: Warsaw, Poland
-- Phone: [+48 511 483 113](tel:+48511483113 "phone")
-- e-mail: [navickiy1994@gmail.com](mailto:navickiy1994@gmail.com "mail")
-- Netlify: [Antonowka](https://app.netlify.com/teams/navickiy1994-3-imbsy/overview "mail")
-- GitHub: [Antonowka](https://github.com/Antonowka "GitHub")
-- Discord: [@Shimmy#9464](https://discord.com/app "mail")
+- __Location:__ Warsaw, Poland
+- __Phone:__ [+48 511 483 113](tel:+48511483113 "phone")
+- __e-mail:__ [navickiy1994@gmail.com](mailto:navickiy1994@gmail.com "mail")
+- __Netlify:__ [Antonowka](https://app.netlify.com/teams/navickiy1994-3-imbsy/overview "netlify")
+- __GitHub:__ [Antonowka](https://github.com/Antonowka "GitHub")
+- __Discord:__ [@Shimmy#9464](https://discord.com/app "diskord")
 
 ___
 
@@ -25,32 +25,33 @@ To continue my studies and at the same time to work in a field that brings me pl
 ___
 
 ### Soft Skills:
-+ Teamwork
-+ GTD
-+ Agile
-+ Ability and striving for improvement
++ __Teamwork__
++ __GTD__
++ __Agile__
++ __Ability and striving for improvement__
 
 ___
 
 ### Tech Skills:
-+ Photoshop
-+ HTML
-+ CSS:  *Flexbox, Adaptive layout, Animation*
-+ GIT
-+ elementary JS: *integration into my code*
++ __Photoshop__
++ __HTML__
++ __CSS:__  *Flexbox, Adaptive layout, Animation*
++ __GIT__
++ __elementary JS:__ *integration into my code*
 
 ___
 
 ### Tools:
-+ Photoshop
-+ VSCode
-+ Figma
-+ Git Desktop
++ __Photoshop__
++ __VSCode__
++ __Figma__
++ __Git Desktop__
 
 ___
 
 ### Code Examples:
 
+```
 HTM:
   <h1>My First JS Slider</h1>
   <div class="container">
@@ -149,24 +150,27 @@ function clearActiveClasses() {
     slide.classList.remove('active')
   })
 }
- 
 
+```
 ___
 
 ### Experience.
-+ HTML+CSS: *my introduction to frontend* - [Netlify](https://lucky-taffy-961900.netlify.app/ "goit")
-+ JS: *my introduction to JS* - [Netlify](https://remarkable-kashata-ab03ae.netlify.app/ "js-slider")
-
++ __HTML+CSS:__ *my introduction to frontend* - __[Netlify](https://lucky-taffy-961900.netlify.app/ "goit")__
++ __JS:__ *my introduction to JS* - __[Netlify](https://remarkable-kashata-ab03ae.netlify.app/ "js-slider")__
++ __HTML+CSS+JS:__ *My first solo project. Cv for my girl.* - __[Netlify](https://elaborate-florentine-1efb1e.netlify.app/ "my-solo-project")__
 
 ___
 
 ### Education:
-+ Сollege at the Belarusian-Russian University: *01.09.2010 - 21.03.2014 - "Industrial and civil construction".* "Technic-Builder."
-+ Belarusian-Russian University: *01.09.2014 - 25.01.2019 - "Industrial and civil construction".* "Civil-Engineer."
-+ GoIT Courses: *intensive Frontend course - start 22 end 30 March 2022*
-
++ __Сollege at the Belarusian-Russian University:__ *01.09.2010 - 21.03.2014 - "Industrial and civil construction".* "__Technic-Builder__."
++ __Belarusian-Russian University:__ *01.09.2014 - 25.01.2019 - "Industrial and civil construction".* "__Civil-Engineer__."
++ __GoIT Courses:__ *intensive Frontend course - start 22 end 30 March 2022*
++ __RS School:__ *«JavaScript/Front-end. Stage 0» - start 01.06.2022*
 
 ___
 
 ### Language:
-+ English [EF SET](https://www.efset.org/ru/ "phone") - _Beginner_
++ __English__ __[EF SET](https://www.efset.org/ru/ "linkEnglish")__ - _Beginner_
++ __Polish__ - _B1_
++ __Russian__ - _Native_
++ __Belarusian and Ukraine__ - _Free understanding and read_
