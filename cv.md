@@ -1,6 +1,6 @@
 # Anton Navitski
 
-![MyPhoto](01.jpg "MyPhoto")
+![MyPhoto](./img/01.jpg "MyPhoto")
 
 #### Student Junior Frontend Developer
 
@@ -34,6 +34,7 @@ ___
 
 ### Tech Skills:
 + __Photoshop__
++ __Figma__
 + __HTML__
 + __CSS:__  *Flexbox, Adaptive layout, Animation*
 + __GIT__
