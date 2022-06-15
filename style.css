@@ -1,0 +1,248 @@
+/* ZEROING */
+
+*{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@font-face{
+  font-family: "Roboto";
+  src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+@font-face{
+  font-family: "Roboto";
+  src: url(./assets/fonts/Roboto-Bold.ttf);
+  font-weight: bold;
+}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 18px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth; 
+  color: #373737;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav,footer,header,main{
+  display: block;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-size:inherit;
+  font-weight: 400;
+}
+
+/* HEADER */
+
+/* .header {
+  border: 1px solid #373737; 
+} */
+
+.navi-list {
+  display: flex;
+  justify-content: end;
+}
+.navi-item {
+  margin: 20px 0px 10px 30px;
+  font-size: 20px;
+}
+
+.navi-item-link {
+  color: #373737;
+}
+
+.navi-item-link:hover {
+  color: #B72F54;
+}
+
+/* MAIN LEFT SIDE */
+
+main {
+  display: flex;
+}
+
+.left-aside{
+  width: 450px;
+  background-color: #353a46;
+}
+
+.photo{
+  position: absolute;
+  top: 0;
+}
+
+.contacts-position{
+  margin-top: 650px;
+}
+
+.contacts-item-link{
+  color: #fff;
+  line-height: 1.7;
+  margin-left: 70px;
+}
+
+.contacts-item-link:hover{
+  color: #B72F54;
+}
+
+.study{
+  margin-bottom: 40px;
+}
+
+.education-name{
+  color: #fff;
+  margin-left: 70px;
+  font-size: 16px;
+  padding: 5px 0;
+}
+
+
+
+.contacts-name-left h2,
+.contacts-name-right h2{
+  padding-left: 70px;
+  margin: 20px 0;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #434854;
+  color: #fff;
+  line-height: 1.7;
+}
+
+/* MAIN RIGHT-SIDE */
+
+.right-side{
+  max-width: 750px;
+}
+
+.me-text{
+  margin-left: 70px;
+  line-height: 1.5;
+}
+
+
+.my-projects a{
+  margin-left: 70px;
+  line-height: 1.5;
+}
+
+.contacts-name-right h2{
+  background-color: #ebebeb;
+  color: #373737;
+}
+
+.iam h1{
+  font-size: 80px;
+  font-weight: bold;
+  margin-top: 100px;
+  padding-left: 70px;
+}
+
+.iam h3{
+  font-size: 30px;
+  padding-left: 70px;
+  margin: 20px 0 100px 0;
+}
+
+code{
+  margin-left: 70px;
+}
+
+.languages-list{
+  margin-left: 70px;
+  line-height: 1.5;
+}
+
+.languages-list a{
+  color: #373737;
+}
+
+.languages-list a:hover{
+  color: #B72F54;
+}
+
+/* HOBBIES */
+
+.hobbies-main-container{
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.hobbies-container{
+  display: flex;
+  margin: 20px;
+}
+
+/* FOOTER */
+
+.footer-container-left{
+  width: 450px;
+  background-color: #353a46;
+  height: 100px;
+}
+
+.footer-flex{
+  display: flex;
+  /* justify-content: flex-end; */
+  align-items: center
+}
+
+.footer-container-right{
+  max-width: 750px;
+  width: 100%;
+  border-top: 1px solid #ebebeb;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.rsschool,.github,.footer-year{
+  padding-top: 30px;
+}
+
+
+
+
+/* PROGRESS STYLE */
+
+.label, .progress-bar, .progress-block  {
+  float: left;
+}
+
+.progress{
+  display: flex;
+}
+
+.label {
+  margin-right: 50px;
+  width: 100px;
+  height: 20px;
+  margin-left: 70px;
+}
+.progress-block {
+  width: 15px;
+  height: 12px;
+  margin: 2px 1px;
+  background-color: #E6E6E6;
+}
+.progress-block.active {
+  background-color: #B72F54;
+}
+
+.container-progress{
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
